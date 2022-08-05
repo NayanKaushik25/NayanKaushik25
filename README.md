@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NayanKaushik25
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Java and Python
+- 🌱 I’m currently learning Dart and Flutter
 - 📫 How to reach me?
 - Email: kaushiknayan587@gmail.com
 
