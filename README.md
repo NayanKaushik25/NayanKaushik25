@@ -15,3 +15,6 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
 </p>
+
+
+[![An image of @nayankaushik25's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nayankaushik25)](https://holopin.io/@nayankaushik25)
